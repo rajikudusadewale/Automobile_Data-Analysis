@@ -3,6 +3,8 @@
 
 **Problem:** *What are the main characteristics which have the most impact on the car price?*
 
+**Check the jupyter note provided for the above question**
+
 **Conclusion:**
 
 At this point, we have gained a more comprehensive understanding of the characteristics of our data, as well as the key variables that should be considered when attempting to forecast car prices. 
