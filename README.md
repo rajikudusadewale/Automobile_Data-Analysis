@@ -3,7 +3,9 @@
 
 **Problem:** *What are the main characteristics which have the most impact on the car price?*
 
-**Check the jupyter note provided for the above question**
+**Answers were provided in the notebook below**
+
+![Jupyter Notebook](https://github.com/rajikudusadewale/Automobile_Data-Analysis/blob/main/Automobile%20EDA_Python%20Project.ipynb)
 
 **Conclusion:**
 
